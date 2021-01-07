@@ -1,0 +1,2 @@
+message="abc"
+print(message)
